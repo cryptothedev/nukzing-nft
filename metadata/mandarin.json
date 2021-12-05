@@ -1,0 +1,13 @@
+{
+  "attributes": [
+    { "trait_type": "เทรด", "value": "55" },
+    { "trait_type": "ซิ่ง", "value": "90" },
+    { "trait_type": "กระท้อน", "value": "98" },
+    { "trait_type": "vi", "value": "5" },
+    { "trait_type": "nft", "value": "5" }
+  ],
+  "description": "เจ้าชายตกรถ ประจำ ห้องพักนักซิ่ง ",
+  "external_url": "https://zingdefi.com",
+  "image": "https://raw.githubusercontent.com/cryptothedev/nukzing-nft/master/images/mandarin.jpg",
+  "name": "Mandarin"
+}
