@@ -1,0 +1,13 @@
+{
+  "attributes": [
+    { "trait_type": "เทรด", "value": "45" },
+    { "trait_type": "ซิ่ง", "value": "70" },
+    { "trait_type": "กระท้อน", "value": "50" },
+    { "trait_type": "vi", "value": "32" },
+    { "trait_type": "nft", "value": "15" }
+  ],
+  "description": "Kraton of ห้องพักนักซิ่ง ",
+  "external_url": "https://zingdefi.com",
+  "image": "https://raw.githubusercontent.com/cryptothedev/nukzing-nft/master/images/sonthiya.jpg",
+  "name": "SonthiYa"
+}
