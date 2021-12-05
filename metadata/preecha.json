@@ -1,0 +1,14 @@
+{
+  "attributes": [
+    { "trait_type": "เทรด", "value": "50" },
+    { "trait_type": "ซิ่ง", "value": "80" },
+    { "trait_type": "กระท้อน", "value": "100" },
+    { "trait_type": "vi", "value": "100" },
+    { "trait_type": "nft", "value": "1" },
+    { "trait_type": "ลากทุบ", "value": "100" }
+  ],
+  "description": "PreChaa PaRuay",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/cryptothedev/nukzing-nft/master/images/preecha.jpg"
+  "name": "PreChaPaRuay"
+}
