@@ -1,0 +1,14 @@
+{
+  "attributes": [
+    { "trait_type": "เทรด", "value": "30" },
+    { "trait_type": "ซิ่ง", "value": "90" },
+    { "trait_type": "กระท้อน", "value": "99" },
+    { "trait_type": "vi", "value": "0" },
+    { "trait_type": "nft", "value": "0" },
+    { "trait_type": "ลากทุบ", "value": "5" }
+  ],
+  "description": "แหกโค้งเข้าโรงบาล เพื่อนยังลากไปซิ่งต่อ",
+  "external_url": "",
+  "image": "https://raw.githubusercontent.com/cryptothedev/nukzing-nft/master/images/general-ak.jpg",
+  "name": "ZingOrZee"
+}
