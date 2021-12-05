@@ -1,0 +1,14 @@
+{
+  "attributes": [
+    { "trait_type": "เทรด", "value": "60" },
+    { "trait_type": "ซิ่ง", "value": "90" },
+    { "trait_type": "กระท้อน", "value": "80" },
+    { "trait_type": "vi", "value": "60" },
+    { "trait_type": "nft", "value": "50" },
+    { "trait_type": "ลากทุบ", "value": "60" }
+  ],
+  "description": "สมาชิกห้องพักนักซิ่ง No Pain No Gain",
+  "external_url": "https://zingdefi.com",
+  "image": "https://raw.githubusercontent.com/cryptothedev/nukzing-nft/master/images/arthur-na.png",
+  "name": "Arthur Na + 10"
+}
