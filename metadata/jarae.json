@@ -1,0 +1,14 @@
+{
+  "attributes": [
+    { "trait_type": "เทรด", "value": "18" },
+    { "trait_type": "ซิ่ง", "value": "2" },
+    { "trait_type": "กระท้อน", "value": "19" },
+    { "trait_type": "vi", "value": "92" },
+    { "trait_type": "nft", "value": "1" },
+    { "trait_type": "ลากทุบ", "value": "1" }
+  ],
+  "description": "life goes on",
+  "external_url": "https://zingdefi.com",
+  "image": "https://raw.githubusercontent.com/cryptothedev/nukzing-nft/master/images/jarae.jpg",
+  "name": "Jarae"
+}
