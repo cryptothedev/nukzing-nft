@@ -1,0 +1,14 @@
+{
+  "attributes": [
+    { "trait_type": "เทรด", "value": "1" },
+    { "trait_type": "ซิ่ง", "value": "1" },
+    { "trait_type": "กระท้อน", "value": "99" },
+    { "trait_type": "vi", "value": "1" },
+    { "trait_type": "nft", "value": "1" },
+    { "trait_type": "ลากทุบ", "value": "1" }
+  ],
+  "description": "กระท้อน FC",
+  "external_url": "https://zingdefi.com",
+  "image": "https://raw.githubusercontent.com/cryptothedev/nukzing-nft/master/images/akarasan.jpg",
+  "name": "Akarasan"
+}

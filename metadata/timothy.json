@@ -1,0 +1,14 @@
+{
+  "attributes": [
+    { "trait_type": "เทรด", "value": "30" },
+    { "trait_type": "ซิ่ง", "value": "5" },
+    { "trait_type": "กระท้อน", "value": "70" },
+    { "trait_type": "vi", "value": "80" },
+    { "trait_type": "nft", "value": "60" },
+    { "trait_type": "ลากทุบ", "value": "0" }
+  ],
+  "description": "ทุกคนทำให้รู้สึก FOMO",
+  "external_url": "https://zingdefi.com",
+  "image": "https://raw.githubusercontent.com/cryptothedev/nukzing-nft/master/images/timothy.jpg",
+  "name": "Timothy"
+}

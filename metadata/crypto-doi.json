@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    { "trait_type": "เทรด", "value": "40" },
+    { "trait_type": "ซิ่ง", "value": "80" },
+    { "trait_type": "กระท้อน", "value": "99" },
+    { "trait_type": "vi", "value": "40" },
+    { "trait_type": "nft", "value": "60" },
+    { "trait_type": "ลากทุบ", "value": "0" }
+    { "trait_type": "ติดดอย", "value": "100" }
+  ],
+  "description": "doi indicator",
+  "external_url": "https://zingdefi.com",
+  "image": "https://raw.githubusercontent.com/cryptothedev/nukzing-nft/master/images/crypto-doi.png",
+  "name": "Crypto Doi"
+}
