@@ -1,0 +1,14 @@
+{
+  "attributes": [
+    { "trait_type": "เทรด", "value": "1" },
+    { "trait_type": "ซิ่ง", "value": "1" },
+    { "trait_type": "กระท้อน", "value": "99" },
+    { "trait_type": "vi", "value": "99" },
+    { "trait_type": "nft", "value": "88" },
+    { "trait_type": "ลากทุบ", "value": "0" }
+  ],
+  "description": "Ape together,Lose together, Rugged together, Hodl together, Moon together,Moon together",
+  "external_url": "https://www.zingdefi.com/",
+  "image": "https://raw.githubusercontent.com/cryptothedev/nukzing-nft/master/images/mrvibranium.jpg",
+  "name": "Mr.Vibranium Hand"
+}
